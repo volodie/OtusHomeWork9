@@ -9,8 +9,8 @@ internal class Program
     {
         void DisplayMessage(string message) => Console.WriteLine(message);
         ImageDownloader imageDownloader = new ImageDownloader();
-        //imageDownloader.Notify += DisplayMessage;
+        imageDownloader.Notify += DisplayMessage;
         imageDownloader.Download(remotUrl);
-        //imageDownloader.Notify -= DisplayMessage;
+        imageDownloader.Notify -= DisplayMessage;
     }
 }

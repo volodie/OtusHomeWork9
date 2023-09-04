@@ -3,7 +3,6 @@ C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\bin\Debug\net7.0
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\bin\Debug\net7.0\OtusHomeWork9.runtimeconfig.json
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\bin\Debug\net7.0\OtusHomeWork9.dll
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\bin\Debug\net7.0\OtusHomeWork9.pdb
-C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\obj\Debug\net7.0\OtusHomeWork9.csproj.AssemblyReference.cache
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\obj\Debug\net7.0\OtusHomeWork9.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\obj\Debug\net7.0\OtusHomeWork9.AssemblyInfoInputs.cache
 C:\Users\v.natyazhenko\source\repos\OtusHomeWork9\OtusHomeWork9\obj\Debug\net7.0\OtusHomeWork9.AssemblyInfo.cs
